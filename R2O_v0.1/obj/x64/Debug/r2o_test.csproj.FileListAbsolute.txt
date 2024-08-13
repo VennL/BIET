@@ -1,0 +1,6 @@
+D:\Study\Serious\Program\Revit\r2o\r2o_test\bin\x64\Debug\r2o_test.dll
+D:\Study\Serious\Program\Revit\r2o\r2o_test\bin\x64\Debug\r2o_test.pdb
+D:\Study\Serious\Program\Revit\r2o\r2o_test\obj\x64\Debug\r2o_test.csprojAssemblyReference.cache
+D:\Study\Serious\Program\Revit\r2o\r2o_test\obj\x64\Debug\r2o_test.csproj.CoreCompileInputs.cache
+D:\Study\Serious\Program\Revit\r2o\r2o_test\obj\x64\Debug\r2o_test.dll
+D:\Study\Serious\Program\Revit\r2o\r2o_test\obj\x64\Debug\r2o_test.pdb

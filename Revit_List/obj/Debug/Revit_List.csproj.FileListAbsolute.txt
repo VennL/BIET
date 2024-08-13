@@ -1,0 +1,5 @@
+D:\Study\Serious\Program\Revit\r2o\Revit_List\bin\Debug\Revit_List.dll
+D:\Study\Serious\Program\Revit\r2o\Revit_List\bin\Debug\Revit_List.pdb
+D:\Study\Serious\Program\Revit\r2o\Revit_List\obj\Debug\Revit_List.csproj.CoreCompileInputs.cache
+D:\Study\Serious\Program\Revit\r2o\Revit_List\obj\Debug\Revit_List.dll
+D:\Study\Serious\Program\Revit\r2o\Revit_List\obj\Debug\Revit_List.pdb

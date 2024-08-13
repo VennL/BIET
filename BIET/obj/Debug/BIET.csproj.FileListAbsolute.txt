@@ -1,0 +1,2 @@
+D:\Study\Serious\Program\Revit\r2o\BIET\obj\Debug\BIET.csprojAssemblyReference.cache
+D:\Study\Serious\Program\Revit\r2o\BIET\obj\Debug\BIET.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+D:\Study\Serious\Program\Revit\r2o\R2O_v0.3\bin\Debug\R2O_v0.3.dll
+D:\Study\Serious\Program\Revit\r2o\R2O_v0.3\bin\Debug\R2O_v0.3.pdb
+D:\Study\Serious\Program\Revit\r2o\R2O_v0.3\obj\Debug\R2O_v0._3.Properties.Resources.resources
+D:\Study\Serious\Program\Revit\r2o\R2O_v0.3\obj\Debug\R2O_v0.3.csproj.GenerateResource.cache
+D:\Study\Serious\Program\Revit\r2o\R2O_v0.3\obj\Debug\R2O_v0.3.csproj.CoreCompileInputs.cache
+D:\Study\Serious\Program\Revit\r2o\R2O_v0.3\obj\Debug\R2O_v0.3.dll
+D:\Study\Serious\Program\Revit\r2o\R2O_v0.3\obj\Debug\R2O_v0.3.pdb
+D:\Study\Serious\Program\Revit\r2o\R2O_v0.3\obj\Debug\R2O_v0.3.csprojAssemblyReference.cache

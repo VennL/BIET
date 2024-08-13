@@ -1,0 +1,11 @@
+D:\Study\Serious\Program\Revit\r2o\WpfBIET\bin\Debug\WpfBIET.pdb
+D:\Study\Serious\Program\Revit\r2o\WpfBIET\obj\Debug\MainWindow.g.cs
+D:\Study\Serious\Program\Revit\r2o\WpfBIET\obj\Debug\WpfBIET_MarkupCompile.cache
+D:\Study\Serious\Program\Revit\r2o\WpfBIET\obj\Debug\MainWindow.baml
+D:\Study\Serious\Program\Revit\r2o\WpfBIET\obj\Debug\WpfBIET.g.resources
+D:\Study\Serious\Program\Revit\r2o\WpfBIET\obj\Debug\WpfBIET.Properties.Resources.resources
+D:\Study\Serious\Program\Revit\r2o\WpfBIET\obj\Debug\WpfBIET.csproj.GenerateResource.cache
+D:\Study\Serious\Program\Revit\r2o\WpfBIET\obj\Debug\WpfBIET.csproj.CoreCompileInputs.cache
+D:\Study\Serious\Program\Revit\r2o\WpfBIET\obj\Debug\WpfBIET.pdb
+D:\Study\Serious\Program\Revit\r2o\WpfBIET\bin\Debug\WpfBIET.dll
+D:\Study\Serious\Program\Revit\r2o\WpfBIET\obj\Debug\WpfBIET.dll
